@@ -1,0 +1,6 @@
+{
+  "name": "FPL Assistant",
+  "description": "Comprehensive Fantasy Premier League stats explorer, head-to-head player comparator, squad planner, and data-driven transfer assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
